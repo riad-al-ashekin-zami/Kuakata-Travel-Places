@@ -1,0 +1,7 @@
+{
+  "name": "Kuakata Travel Guide",
+  "description": "A modern, trendy travel guide showcasing the most-rated Google Maps places to visit in Kuakata, powered by Gemini. Discover top attractions with ratings, photos, and details in a sleek, responsive interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
